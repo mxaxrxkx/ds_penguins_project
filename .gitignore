@@ -1,0 +1,4 @@
+# .gitignore
+.ipynb_checkpoints
+penguins_lter.csv
+penguins_size.csv
