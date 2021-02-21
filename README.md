@@ -1,6 +1,6 @@
 # ds_penguins_project
 
-![Penguins Logo](/images/lter_penguins.png)
+<img src="/images/lter_penguins.png" style="max-width:100%;" width="75%">
 
 
 Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
